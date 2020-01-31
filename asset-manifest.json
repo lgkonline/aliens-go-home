@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aliens-go-home/static/css/main.b6db9690.chunk.css",
+    "main.js": "/aliens-go-home/static/js/main.39ecc6d3.chunk.js",
+    "main.js.map": "/aliens-go-home/static/js/main.39ecc6d3.chunk.js.map",
+    "runtime-main.js": "/aliens-go-home/static/js/runtime-main.195035e9.js",
+    "runtime-main.js.map": "/aliens-go-home/static/js/runtime-main.195035e9.js.map",
+    "static/js/2.8a972963.chunk.js": "/aliens-go-home/static/js/2.8a972963.chunk.js",
+    "static/js/2.8a972963.chunk.js.map": "/aliens-go-home/static/js/2.8a972963.chunk.js.map",
+    "index.html": "/aliens-go-home/index.html",
+    "precache-manifest.df53cdc1ee5de43f6c865be74d1cdd04.js": "/aliens-go-home/precache-manifest.df53cdc1ee5de43f6c865be74d1cdd04.js",
+    "service-worker.js": "/aliens-go-home/service-worker.js",
+    "static/css/main.b6db9690.chunk.css.map": "/aliens-go-home/static/css/main.b6db9690.chunk.css.map",
+    "static/js/2.8a972963.chunk.js.LICENSE.txt": "/aliens-go-home/static/js/2.8a972963.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195035e9.js",
+    "static/js/2.8a972963.chunk.js",
+    "static/css/main.b6db9690.chunk.css",
+    "static/js/main.39ecc6d3.chunk.js"
+  ]
+}
