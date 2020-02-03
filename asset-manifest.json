@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/aliens-go-home/static/css/main.97bcd9a5.chunk.css",
-    "main.js": "/aliens-go-home/static/js/main.f9b6e49c.chunk.js",
-    "main.js.map": "/aliens-go-home/static/js/main.f9b6e49c.chunk.js.map",
+    "main.js": "/aliens-go-home/static/js/main.3a3e40aa.chunk.js",
+    "main.js.map": "/aliens-go-home/static/js/main.3a3e40aa.chunk.js.map",
     "runtime-main.js": "/aliens-go-home/static/js/runtime-main.195035e9.js",
     "runtime-main.js.map": "/aliens-go-home/static/js/runtime-main.195035e9.js.map",
-    "static/js/2.8a972963.chunk.js": "/aliens-go-home/static/js/2.8a972963.chunk.js",
-    "static/js/2.8a972963.chunk.js.map": "/aliens-go-home/static/js/2.8a972963.chunk.js.map",
+    "static/js/2.ce4331a3.chunk.js": "/aliens-go-home/static/js/2.ce4331a3.chunk.js",
+    "static/js/2.ce4331a3.chunk.js.map": "/aliens-go-home/static/js/2.ce4331a3.chunk.js.map",
     "index.html": "/aliens-go-home/index.html",
-    "precache-manifest.3aef7a43e58a33700deccacf80287216.js": "/aliens-go-home/precache-manifest.3aef7a43e58a33700deccacf80287216.js",
+    "precache-manifest.11ac63dd0d1e0d154aec2d49f64358ee.js": "/aliens-go-home/precache-manifest.11ac63dd0d1e0d154aec2d49f64358ee.js",
     "service-worker.js": "/aliens-go-home/service-worker.js",
     "static/css/main.97bcd9a5.chunk.css.map": "/aliens-go-home/static/css/main.97bcd9a5.chunk.css.map",
-    "static/js/2.8a972963.chunk.js.LICENSE.txt": "/aliens-go-home/static/js/2.8a972963.chunk.js.LICENSE.txt"
+    "static/js/2.ce4331a3.chunk.js.LICENSE.txt": "/aliens-go-home/static/js/2.ce4331a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.195035e9.js",
-    "static/js/2.8a972963.chunk.js",
+    "static/js/2.ce4331a3.chunk.js",
     "static/css/main.97bcd9a5.chunk.css",
-    "static/js/main.f9b6e49c.chunk.js"
+    "static/js/main.3a3e40aa.chunk.js"
   ]
 }
